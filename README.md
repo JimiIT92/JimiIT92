@@ -22,14 +22,12 @@
 - [ ] Setup a Personal Portfolio landing site
 - [ ] Setup a Minecraft Development Portfolio landing site
 
-### ⚡ Recent activities
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/23) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
-2. 🎉 Merged PR [#22](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/22) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
-3. 🎉 Merged PR [#20](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/20) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
-4. 🎉 Merged PR [#21](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/21) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
-5. 🎉 Merged PR [#18](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/18) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
-<!--END_SECTION:activity-->
+
+### 🎵 Spotify Now Playing
+
+<img src="https://novatorem-jimiit92.vercel.app/api/spotify" width="256" height="64" alt="Now Playing">
+
+<hr />
 
 ### 👨🏼‍💻 Languages and Tools
 
@@ -54,11 +52,16 @@
 
 <hr />
 
-### 🎵 Spotify Now Playing
+### ⚡ Recent activities
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#23](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/23) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
+2. 🎉 Merged PR [#22](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/22) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
+3. 🎉 Merged PR [#20](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/20) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
+4. 🎉 Merged PR [#21](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/21) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
+5. 🎉 Merged PR [#18](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/18) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
+<!--END_SECTION:activity-->
 
-<img src="https://novatorem-jimiit92.vercel.app/api/spotify" width="256" height="64" alt="Now Playing">
-
-<hr />
+<br/>
 
 ### 💻 Top Repositories
 
