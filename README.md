@@ -59,19 +59,7 @@
 <img align="center" alt="JimiIT92's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JimiIT92&show_icons=true&hide_border=true&theme=dark&hide=prs" />
 <img align="center" alt="Top Languages" style="margin-left: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimiIT92&layout=compact&theme=dark&langs_count=10&hide_border=true" />
 
-
 <hr />
-
-### ⚡ Recent activities
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/23) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
-2. 🎉 Merged PR [#22](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/22) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
-3. 🎉 Merged PR [#20](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/20) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
-4. 🎉 Merged PR [#21](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/21) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
-5. 🎉 Merged PR [#18](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate/pull/18) in [JimiIT92/Lambda-Graphql-Boilerplate](https://github.com/JimiIT92/Lambda-Graphql-Boilerplate)
-<!--END_SECTION:activity-->
-
-<br/>
 
 ### 💻 Top Repositories
 
