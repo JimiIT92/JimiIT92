@@ -35,7 +35,7 @@
 
 ### 🎵 Spotify Now Playing
 
-<img src="https://novatorem-jimiit92.vercel.app/api/spotify" width="256" height="64" alt="Now Playing">
+<img src="https://novatorem-jimiit92.vercel.app/api/spotify?background_color=0d1117" width="256" height="64" alt="Now Playing">
 
 <hr />
 
