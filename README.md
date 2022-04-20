@@ -1,9 +1,19 @@
-# 👋🏼 Hi there, I'm Jimi
-[<img align="center" alt="jimifrancesco | Instagram" title="Instagram" src="https://img.shields.io/badge/jimifrancesco-e4405f?style=flat-square&logo=instagram&logoColor=white" />][Instagram]
-[<img align="center" alt="MineHendrix | YouTube" title="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCQMKod7OLyusuyzV4dSHBvQ?label=%20MineHendrix&logo=youtube&style=flat-square" />][YouTube]
-[<img align="center" alt="Minehendrix | Twitch" title="Twitch" src="https://img.shields.io/twitch/status/minehendrix?color=9146FF&label=Minehendrix&logo=twitch&logoColor=white&style=flat-square" />][Twitch]
-[<img align="center" alt="JimiIT92 | Discord" title="Discord" src="https://img.shields.io/badge/JimiIT92%235592-5865F2?style=flat-square&logo=discord&logoColor=white" />][Discord]
-
+# 👋🏼 Hi there, I'm <a href="https://stackoverflow.com/users/2695796/jimi" target="_blank">Jimi</a>
+<a href="https://www.instagram.com/jimifrancesco/" target="_blank">
+  <img align="center" alt="jimifrancesco | Instagram" title="Instagram" src="https://img.shields.io/badge/jimifrancesco-e4405f?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCQMKod7OLyusuyzV4dSHBvQ" target="_blank">
+  <img align="center" alt="MineHendrix | YouTube" title="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCQMKod7OLyusuyzV4dSHBvQ?label=%20MineHendrix&logo=youtube&style=flat-square" />
+</a>
+<a href="https://www.twitch.tv/minehendrix" target="_blank">
+  <img align="center" alt="Minehendrix | Twitch" title="Twitch" src="https://img.shields.io/twitch/status/minehendrix?color=9146FF&label=Minehendrix&logo=twitch&logoColor=white&style=flat-square" />
+</a>
+<a href="http://discordapp.com/users/155469699109486592" target="_blank">
+  <img align="center" alt="JimiIT92 | Discord" title="Discord" src="https://img.shields.io/badge/JimiIT92-5865F2?style=flat-square&logo=discord&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/2695796/jimi" target="_blank">
+  <img align="center" alt="Jimi | Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/Jimi-FF6719?style=flat-square&logo=stackoverflow&logoColor=white" />
+</a>
 
 ## 🍝 I'm an Italian Developer and Minecraft Modder/Pluginer!
 
@@ -14,11 +24,11 @@
 ## 🏆 2022 Goals
 
 - [ ] <u>**Release Universe Guard 3**</u> (yeah, I know, it's kinda a meme now...)
-- [ ] Give [UniverseGuard](https://ore.spongepowered.org/Francesco_Jimi/Universe-Guard) a proper website and wiki
-- [ ] Update [MineWorld](https://mineworldminecraft.altervista.org/blog/), making it open source and giving it a proper website and wiki
-- [ ] Update [Bundles!](https://www.curseforge.com/minecraft/mc-mods/bundles-mod) mod and giving it a proper webiste and wiki
+- [ ] Give <a href="https://ore.spongepowered.org/Francesco_Jimi/Universe-Guard" target="_blank">Universe Guard</a> a proper website and wiki
+- [ ] Update <a href="https://mineworldminecraft.altervista.org/blog/" target="_blank">MineWorld</a>, making it open source and giving it a proper website and wiki
+- [ ] Update <a href="https://www.curseforge.com/minecraft/mc-mods/bundles-mod" target="_blank">Bundles!</a> mod and giving it a proper webiste and wiki
 - [ ] Update repositories statuses and settings
-- [x] Setup a [GitHub Profile Readme](https://github.com/JimiIT92) page
+- [x] Setup a <a href="https://github.com/JimiIT92" target="_blank">GitHub Profile Readme</a>[]() page
 - [ ] Setup a Personal Portfolio landing site
 - [ ] Setup a Minecraft Development Portfolio landing site
 
@@ -31,18 +41,18 @@
 
 ### 👨🏼‍💻 Languages and Tools
 
-[<img align="left" alt="IntelliJ Idea" title="IntelliJ Idea" width="26px" style="margin-right: 13px" src="https://ico.now.sh/intellijidea/4697ff" />][IntelliJ Idea]
-[<img align="left" alt="Java" title="Java" width="26px" style="margin-right: 13px" src="https://ico.now.sh/java/F08705" />][Java]
-[<img align="left" alt="Sponge" title="Sponge" width="26px" style="margin-right: 13px" src="https://www.spongepowered.org/assets/img/icons/spongie-mark.svg" />][Sponge]
-[<img align="left" alt="Minecraft Forge" title="Minecraft Forge" width="26px" style="margin-right: 13px" src="https://ico.now.sh/curseforge/ED2D2F" />][Forge]
-[<img align="left" alt="GraphQL" title="GraphQL" width="26px" style="margin-right: 13px" src="https://ico.now.sh/trello/0052CC" />][Trello]
-[<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" style="margin-right: 13px" src="https://ico.now.sh/visualstudiocode/007ACC" />][Visual Studio Code]
-[<img align="left" alt="HTML 5" title="HTML 5" width="26px" style="margin-right: 13px" src="https://ico.now.sh/html5/E34F26" />][HTML 5]
-[<img align="left" alt="CSS 3" title="CSS 3" width="26px" style="margin-right: 13px" src="https://ico.now.sh/css3/1572B6" />][CSS 3]
-[<img align="left" alt="Javascript" title="Javascript" width="26px" style="margin-right: 13px" src="https://ico.now.sh/javascript/F7DF1E" />][Javascript]
-[<img align="left" alt="Typescript" title="Typescript" width="26px" style="margin-right: 13px" src="https://ico.now.sh/typescript/3178C6" />][Typescript]
-[<img align="left" alt="GoLang" title="GoLang" width="26px" style="margin-right: 13px" src="https://ico.now.sh/go/00ADD8" />][GoLang]
-[<img align="left" alt="GraphQL" title="GraphQL" width="26px" style="margin-right: 13px" src="https://ico.now.sh/graphql/E10098" />][GraphQL]
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img align="left" alt="IntelliJ Idea" title="IntelliJ Idea" width="26px" style="margin-right: 13px" src="https://ico.now.sh/intellijidea/4697ff" /></a>
+<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" title="Java" width="26px" style="margin-right: 13px" src="https://ico.now.sh/java/F08705" /></a>
+<a href="https://www.spongepowered.org/" target="_blank"><img align="left" alt="Sponge" title="Sponge" width="26px" style="margin-right: 13px" src="https://www.spongepowered.org/assets/img/icons/spongie-mark.svg" /></a>
+<a href="https://forums.minecraftforge.net/" target="_blank"><img align="left" alt="Minecraft Forge" title="Minecraft Forge" width="26px" style="margin-right: 13px" src="https://ico.now.sh/curseforge/ED2D2F" /></a>
+<a href="https://trello.com/" target="_blank"><img align="left" alt="GraphQL" title="GraphQL" width="26px" style="margin-right: 13px" src="https://ico.now.sh/trello/0052CC" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" style="margin-right: 13px" src="https://ico.now.sh/visualstudiocode/007ACC" /></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML 5" title="HTML 5" width="26px" style="margin-right: 13px" src="https://ico.now.sh/html5/E34F26" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS 3" title="CSS 3" width="26px" style="margin-right: 13px" src="https://ico.now.sh/css3/1572B6" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Javascript" title="Javascript" width="26px" style="margin-right: 13px" src="https://ico.now.sh/javascript/F7DF1E" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" title="Typescript" width="26px" style="margin-right: 13px" src="https://ico.now.sh/typescript/3178C6" /></a>
+<a href="https://go.dev/" target="_blank"><img align="left" alt="GoLang" title="GoLang" width="26px" style="margin-right: 13px" src="https://ico.now.sh/go/00ADD8" /></a>
+<a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" title="GraphQL" width="26px" style="margin-right: 13px" src="https://ico.now.sh/graphql/E10098" /></a>
 
 <br/>
 <br/>
@@ -118,24 +128,3 @@
 - [Ho trovato un libro RARISSIMO in #Amnesia #Shorts](https://www.youtube.com/watch?v=Ioaz0dywlIs)
 - [Ho BISOGNO del VOSTRO AIUTO #Shorts #Spiderman #NoWayHome](https://www.youtube.com/watch?v=BEObmIpRqwQ)
 <!-- YOUTUBE:END -->
-
-
-<br />
-<br />
-
-[Instagram]: https://www.instagram.com/jimifrancesco/
-[YouTube]: https://www.youtube.com/channel/UCQMKod7OLyusuyzV4dSHBvQ
-[Twitch]: https://www.twitch.tv/minehendrix
-[Discord]: http://discordapp.com/users/155469699109486592
-[IntelliJ Idea]: https://www.jetbrains.com/idea/
-[Java]: https://www.java.com/
-[Sponge]: https://www.spongepowered.org/
-[Forge]: https://forums.minecraftforge.net/
-[Trello]: https://trello.com/
-[Visual Studio Code]: https://code.visualstudio.com/
-[HTML 5]: https://www.w3schools.com/html/
-[CSS 3]: https://www.w3schools.com/css/
-[Javascript]: https://www.w3schools.com/js/
-[Typescript]: https://www.typescriptlang.org/
-[GoLang]: https://go.dev/
-[GraphQL]: https://graphql.org/
