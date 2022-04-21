@@ -19,3 +19,5 @@ jobs:
           date_format: "mmm d, yyyy"
           template: '<table><tr><td style="border-color: transparent !important;"><a href="$url" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td style="border-color: transparent !important;"><a href="$url" target="_blank">$title</a><br/>Published: $date<br/>Views: $counter</td></tr></table>$newline'
           committer_email: "jimiit92@gmail.com"
+          enable_keepalive: true
+          title_max_length: 50
