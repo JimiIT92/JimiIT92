@@ -109,14 +109,14 @@
 <hr />
 
 ### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START --><table style="border: none !important;"><tr style="border: none !important;"><td style="border: none !important;"><a href="https://www.youtube.com/watch?v=Sse7PTTctHE"><img width="140px" src="https://i.ytimg.com/vi/Sse7PTTctHE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td style="border: none !important;"><a href="https://www.youtube.com/watch?v=Sse7PTTctHE"><img width="140px" src="https://i.ytimg.com/vi/Sse7PTTctHE/mqdefault.jpg"></a></td>
 <td style="border: none !important;"><a href="https://www.youtube.com/watch?v=Sse7PTTctHE">Cosa NON ci sarà in Spiderman NoWayHome</a><br/>Dec 19, 2021</td></tr></table>
-<table style="border: none !important;"><tr style="border: none !important;"><td style="border: none !important;"><a href="https://www.youtube.com/watch?v=swf3wxmxkVU"><img width="140px" src="https://i.ytimg.com/vi/swf3wxmxkVU/mqdefault.jpg"></a></td>
+<table><tr><td style="border: none !important;"><a href="https://www.youtube.com/watch?v=swf3wxmxkVU"><img width="140px" src="https://i.ytimg.com/vi/swf3wxmxkVU/mqdefault.jpg"></a></td>
 <td style="border: none !important;"><a href="https://www.youtube.com/watch?v=swf3wxmxkVU">ZIA MAY diventa VENOM in Spiderman NoWayHome? 🤷‍♂️ #Shorts</a><br/>Dec 19, 2021</td></tr></table>
-<table style="border: none !important;"><tr style="border: none !important;"><td style="border: none !important;"><a href="https://www.youtube.com/watch?v=CUIcH0PAAh0"><img width="140px" src="https://i.ytimg.com/vi/CUIcH0PAAh0/mqdefault.jpg"></a></td>
+<table><tr><td style="border: none !important;"><a href="https://www.youtube.com/watch?v=CUIcH0PAAh0"><img width="140px" src="https://i.ytimg.com/vi/CUIcH0PAAh0/mqdefault.jpg"></a></td>
 <td style="border: none !important;"><a href="https://www.youtube.com/watch?v=CUIcH0PAAh0">CREDEVO si potesse SALVARE... 😥 #Amnesia Live Moments #1</a><br/>Dec 16, 2021</td></tr></table>
-<table style="border: none !important;"><tr style="border: none !important;"><td style="border: none !important;"><a href="https://www.youtube.com/watch?v=Ioaz0dywlIs"><img width="140px" src="https://i.ytimg.com/vi/Ioaz0dywlIs/mqdefault.jpg"></a></td>
+<table><tr><td style="border: none !important;"><a href="https://www.youtube.com/watch?v=Ioaz0dywlIs"><img width="140px" src="https://i.ytimg.com/vi/Ioaz0dywlIs/mqdefault.jpg"></a></td>
 <td style="border: none !important;"><a href="https://www.youtube.com/watch?v=Ioaz0dywlIs">Ho trovato un libro RARISSIMO in #Amnesia #Shorts</a><br/>Dec 16, 2021</td></tr></table>
-<table style="border: none !important;"><tr style="border: none !important;"><td style="border: none !important;"><a href="https://www.youtube.com/watch?v=BEObmIpRqwQ"><img width="140px" src="https://i.ytimg.com/vi/BEObmIpRqwQ/mqdefault.jpg"></a></td>
+<table><tr><td style="border: none !important;"><a href="https://www.youtube.com/watch?v=BEObmIpRqwQ"><img width="140px" src="https://i.ytimg.com/vi/BEObmIpRqwQ/mqdefault.jpg"></a></td>
 <td style="border: none !important;"><a href="https://www.youtube.com/watch?v=BEObmIpRqwQ">Ho BISOGNO del VOSTRO AIUTO #Shorts #Spiderman #NoWayHome</a><br/>Dec 15, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
