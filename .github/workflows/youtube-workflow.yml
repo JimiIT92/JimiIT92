@@ -17,7 +17,7 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCQMKod7OLyusuyzV4dSHBvQ"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '<div style="background-color: red; border-radius: 1em; display: flex; flex-direction: row; align-items: center; justify-content: space-between;"><a href="$url" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" /></a><div style="display: flex; flex-direction: column; gap: 1em"><a href="$url" target="_blank">$title</a><p>Published on $date</p></div></div>$newline'
+          template: '<table><tr><td><a href="$url" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url" target="_blank">$title</a><br/>Published on $date</td></tr></table>$newline'
           committer_email: "jimiit92@gmail.com"
           enable_keepalive: true
           title_max_length: 50
