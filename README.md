@@ -109,10 +109,14 @@
 <hr />
 
 ### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Cosa NON ci sarà in Spiderman NoWayHome](https://www.youtube.com/watch?v=Sse7PTTctHE)
-- [ZIA MAY diventa VENOM in Spiderman NoWayHome? 🤷‍♂️ #Shorts](https://www.youtube.com/watch?v=swf3wxmxkVU)
-- [CREDEVO si potesse SALVARE... 😥 #Amnesia Live Moments #1](https://www.youtube.com/watch?v=CUIcH0PAAh0)
-- [Ho trovato un libro RARISSIMO in #Amnesia #Shorts](https://www.youtube.com/watch?v=Ioaz0dywlIs)
-- [Ho BISOGNO del VOSTRO AIUTO #Shorts #Spiderman #NoWayHome](https://www.youtube.com/watch?v=BEObmIpRqwQ)
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Sse7PTTctHE"><img width="140px" src="https://i.ytimg.com/vi/Sse7PTTctHE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Sse7PTTctHE">Cosa NON ci sarà in Spiderman NoWayHome</a><br/>Dec 19, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=swf3wxmxkVU"><img width="140px" src="https://i.ytimg.com/vi/swf3wxmxkVU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=swf3wxmxkVU">ZIA MAY diventa VENOM in Spiderman NoWayHome? 🤷‍♂️ #Shorts</a><br/>Dec 19, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=CUIcH0PAAh0"><img width="140px" src="https://i.ytimg.com/vi/CUIcH0PAAh0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CUIcH0PAAh0">CREDEVO si potesse SALVARE... 😥 #Amnesia Live Moments #1</a><br/>Dec 16, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ioaz0dywlIs"><img width="140px" src="https://i.ytimg.com/vi/Ioaz0dywlIs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ioaz0dywlIs">Ho trovato un libro RARISSIMO in #Amnesia #Shorts</a><br/>Dec 16, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BEObmIpRqwQ"><img width="140px" src="https://i.ytimg.com/vi/BEObmIpRqwQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BEObmIpRqwQ">Ho BISOGNO del VOSTRO AIUTO #Shorts #Spiderman #NoWayHome</a><br/>Dec 15, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
