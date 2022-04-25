@@ -28,8 +28,8 @@
 - [ ] Update <a href="https://mineworldminecraft.altervista.org/blog/" target="_blank">MineWorld</a>, making it open source and giving it a proper website and wiki
 - [ ] Update <a href="https://www.curseforge.com/minecraft/mc-mods/bundles-mod" target="_blank">Bundles!</a> mod and giving it a proper webiste and wiki
 - [ ] Update repositories statuses and settings
-- [x] Setup a <a href="https://github.com/JimiIT92" target="_blank">GitHub Profile Readme</a>[]() page
-- [ ] Setup a Personal Portfolio landing site
+- [x] Setup a <a href="https://github.com/JimiIT92" target="_blank">GitHub Profile Readme</a> page
+- [x] Setup a <a href="https://francescogimignano.github.io/Portfolio/" target="_blank">Personal Portfolio</a> landing site
 - [ ] Setup a Minecraft Development Portfolio landing site
 
 
