@@ -105,18 +105,3 @@
 <a href="https://github.com/JimiIT92/ALBResponse">
   <img align="center" style="margin-bottom: 10px;margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=ALBResponse&show_icons=true&hide_border=true&theme=dark" />
 </a>
-
-<hr />
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Sse7PTTctHE" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/Sse7PTTctHE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Sse7PTTctHE" target="_blank">Cosa NON ci sarà in Spiderman NoWayHome</a><br/>Published on Dec 19, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=swf3wxmxkVU" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/swf3wxmxkVU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=swf3wxmxkVU" target="_blank">ZIA MAY diventa VENOM in Spiderman NoWayHome? 🤷‍♂️...</a><br/>Published on Dec 19, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=CUIcH0PAAh0" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/CUIcH0PAAh0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CUIcH0PAAh0" target="_blank">CREDEVO si potesse SALVARE... 😥 #Amnesia Live Mome...</a><br/>Published on Dec 16, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ioaz0dywlIs" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/Ioaz0dywlIs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ioaz0dywlIs" target="_blank">Ho trovato un libro RARISSIMO in #Amnesia #Shorts</a><br/>Published on Dec 16, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BEObmIpRqwQ" target="_blank"><img width="140px" src="https://i.ytimg.com/vi/BEObmIpRqwQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BEObmIpRqwQ" target="_blank">Ho BISOGNO del VOSTRO AIUTO #Shorts #Spiderman #No...</a><br/>Published on Dec 15, 2021</td></tr></table>
-<!-- YOUTUBE:END -->
