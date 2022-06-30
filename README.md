@@ -82,7 +82,7 @@
 <br />
 
 <a href="https://github.com/JimiIT92/TwitchSpawn">
-  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=TwitchSpawn&show_icons=true&hide_border=true&theme=dark" />
+  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=TwitchSpawn&show_icons=true&hide_border=true&theme=dark"  />
 </a>
 <a href="https://github.com/JimiIT92/NameTagKeeper">
   <img align="center" style="margin-bottom: 10px;margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=NameTagKeeper&show_icons=true&hide_border=true&theme=dark" />
