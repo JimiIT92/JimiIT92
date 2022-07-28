@@ -26,7 +26,7 @@
 - [ ] <u>**Release Universe Guard 3**</u> (yeah, I know, it's kinda a meme now...)
 - [ ] Give <a href="https://ore.spongepowered.org/Francesco_Jimi/Universe-Guard" target="_blank">Universe Guard</a> a proper website and wiki
 - [ ] Update <a href="https://mineworldminecraft.altervista.org/blog/" target="_blank">MineWorld</a>, making it open source and giving it a proper website and wiki
-- [ ] Update <a href="https://www.curseforge.com/minecraft/mc-mods/bundles-mod" target="_blank">Bundles!</a> mod and giving it a proper webiste and wiki
+- [x] Update <a href="https://www.curseforge.com/minecraft/mc-mods/bundles-mod" target="_blank">Bundles!</a> mod and giving it a proper webiste and wiki
 - [x] Update repositories statuses and settings
 - [x] Setup a <a href="https://github.com/JimiIT92" target="_blank">GitHub Profile Readme</a> page
 - [x] Setup a <a href="https://francescogimignano.github.io/Portfolio/" target="_blank">Personal Portfolio</a> landing site
