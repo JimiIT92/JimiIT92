@@ -42,7 +42,7 @@
 ### 👨🏼‍💻 Languages and Tools
 
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img align="left" alt="IntelliJ Idea" title="IntelliJ Idea" width="26px" style="margin-right: 13px" src="https://ico.now.sh/intellijidea/4697ff" /></a>
-<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" title="Java" width="26px" style="margin-right: 13px" src="https://ico.now.sh/java/F08705" /></a>
+<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" title="Java" width="26px" style="margin-right: 13px" src="https://www.svgrepo.com/show/184143/java.svg" /></a>
 <a href="https://www.spongepowered.org/" target="_blank"><img align="left" alt="Sponge" title="Sponge" width="26px" style="margin-right: 13px" src="https://www.spongepowered.org/assets/img/icons/spongie-mark.svg" /></a>
 <a href="https://forums.minecraftforge.net/" target="_blank"><img align="left" alt="Minecraft Forge" title="Minecraft Forge" width="26px" style="margin-right: 13px" src="https://ico.now.sh/curseforge/ED2D2F" /></a>
 <a href="https://trello.com/" target="_blank"><img align="left" alt="GraphQL" title="GraphQL" width="26px" style="margin-right: 13px" src="https://ico.now.sh/trello/0052CC" /></a>
