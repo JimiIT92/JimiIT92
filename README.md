@@ -45,7 +45,7 @@
 <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" title="Java" width="26px" style="margin-right: 13px" src="https://www.svgrepo.com/show/184143/java.svg" /></a>
 <a href="https://www.spongepowered.org/" target="_blank"><img align="left" alt="Sponge" title="Sponge" width="26px" style="margin-right: 13px" src="https://www.spongepowered.org/assets/img/icons/spongie-mark.svg" /></a>
 <a href="https://forums.minecraftforge.net/" target="_blank"><img align="left" alt="Minecraft Forge" title="Minecraft Forge" width="26px" style="margin-right: 13px" src="https://ico.now.sh/curseforge/ED2D2F" /></a>
-<a href="https://trello.com/" target="_blank"><img align="left" alt="GraphQL" title="GraphQL" width="26px" style="margin-right: 13px" src="https://ico.now.sh/trello/0052CC" /></a>
+<a href="https://trello.com/" target="_blank"><img align="left" alt="GraphQL" title="Trello" width="26px" style="margin-right: 13px" src="https://ico.now.sh/trello/0052CC" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" style="margin-right: 13px" src="https://ico.now.sh/visualstudiocode/007ACC" /></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML 5" title="HTML 5" width="26px" style="margin-right: 13px" src="https://ico.now.sh/html5/E34F26" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS 3" title="CSS 3" width="26px" style="margin-right: 13px" src="https://ico.now.sh/css3/1572B6" /></a>
