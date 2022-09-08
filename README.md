@@ -56,7 +56,7 @@
 
 <br/>
 <br/>
-<img align="center" alt="JimiIT92's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JimiIT92&show_icons=true&hide_border=true&theme=dark&hide=prs" />
+<img align="center" alt="JimiIT92's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JimiIT92&show_icons=true&hide_border=true&theme=dark&hide=prs&count_private=true" />
 <img align="center" alt="Top Languages" style="margin-left: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimiIT92&layout=compact&theme=dark&langs_count=10&hide_border=true" />
 
 <hr />
