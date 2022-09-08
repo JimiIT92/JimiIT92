@@ -42,35 +42,35 @@
 ### 👨🏼‍💻 Languages and Tools
 
 <!-- Back-End Languages -->
-<a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt="C# / .NET" title="C# / .NET" width="24px" style="margin-right: 13px" src="https://ico.now.sh/dotnet/512BD4" /></a>
-<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" title="Java" width="24px" style="margin-right: 13px" src="https://www.svgrepo.com/show/184143/java.svg" /></a>
-<a href="https://go.dev/" target="_blank"><img align="left" alt="GoLang" title="GoLang" width="24px" style="margin-right: 13px" src="https://ico.now.sh/go/00ADD8" /></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt="C# / .NET" title="C# / .NET" width="18px" style="margin-right: 9px" src="https://ico.now.sh/dotnet/512BD4" /></a>
+<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" title="Java" width="18px" style="margin-right: 9px" src="https://www.svgrepo.com/show/184143/java.svg" /></a>
+<a href="https://go.dev/" target="_blank"><img align="left" alt="GoLang" title="GoLang" width="18px" style="margin-right: 9px" src="https://ico.now.sh/go/00ADD8" /></a>
 <!-- Front-End Languages -->
-<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML 5" title="HTML 5" width="24px" style="margin-right: 13px" src="https://ico.now.sh/html5/E34F26" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS 3" title="CSS 3" width="24px" style="margin-right: 13px" src="https://ico.now.sh/css3/1572B6" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Javascript" title="Javascript" width="24px" style="margin-right: 13px" src="https://ico.now.sh/javascript/F7DF1E" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" title="Typescript" width="24px" style="margin-right: 13px" src="https://ico.now.sh/typescript/3178C6" /></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML 5" title="HTML 5" width="18px" style="margin-right: 9px" src="https://ico.now.sh/html5/E34F26" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS 3" title="CSS 3" width="18px" style="margin-right: 9px" src="https://ico.now.sh/css3/1572B6" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Javascript" title="Javascript" width="18px" style="margin-right: 9px" src="https://ico.now.sh/javascript/F7DF1E" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" title="Typescript" width="18px" style="margin-right: 9px" src="https://ico.now.sh/typescript/3178C6" /></a>
 <!-- Scripting Languages -->
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img align="left" alt="Powershell" title="Powershell" width="24px" style="margin-right: 13px" src="https://ico.now.sh/powershell/5391FE" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" title="Bash" width="24px" style="margin-right: 13px" src="https://ico.now.sh/gnubash/4EAA25" /></a>
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img align="left" alt="Powershell" title="Powershell" width="18px" style="margin-right: 9px" src="https://ico.now.sh/powershell/5391FE" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" title="Bash" width="18px" style="margin-right: 9px" src="https://ico.now.sh/gnubash/4EAA25" /></a>
 <!-- IDEs -->
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img align="left" alt="Visual Studio" title="Visual Studio" width="24px" style="margin-right: 13px" src="https://ico.now.sh/visualstudio/5C2D91" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="24px" style="margin-right: 13px" src="https://ico.now.sh/visualstudiocode/007ACC" /></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"><img align="left" alt="IntelliJ Idea" title="IntelliJ Idea" width="24px" style="margin-right: 13px" src="https://ico.now.sh/intellijidea/4697ff" /></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img align="left" alt="Visual Studio" title="Visual Studio" width="18px" style="margin-right: 9px" src="https://ico.now.sh/visualstudio/5C2D91" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="18px" style="margin-right: 9px" src="https://ico.now.sh/visualstudiocode/007ACC" /></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img align="left" alt="IntelliJ Idea" title="IntelliJ Idea" width="18px" style="margin-right: 9px" src="https://ico.now.sh/intellijidea/4697ff" /></a>
 <!-- Build Systems -->
-<a href="https://gradle.org/" target="_blank"><img align="left" alt="Gradle" title="Gradle" width="24px" style="margin-right: 13px" src="https://ico.now.sh/gradle/02303A" /></a>
-<a href="https://maven.apache.org/" target="_blank"><img align="left" alt="Maven" title="Maven" width="24px" style="margin-right: 13px" src="https://ico.now.sh/apachemaven/C71A36" /></a>
+<a href="https://gradle.org/" target="_blank"><img align="left" alt="Gradle" title="Gradle" width="18px" style="margin-right: 9px" src="https://ico.now.sh/gradle/02303A" /></a>
+<a href="https://maven.apache.org/" target="_blank"><img align="left" alt="Maven" title="Maven" width="18px" style="margin-right: 9px" src="https://ico.now.sh/apachemaven/C71A36" /></a>
 <!-- Databases -->
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img align="left" alt="SQL Server" title="SQL Server" width="24px" style="margin-right: 13px" src="https://ico.now.sh/microsoftsqlserver/CC2927" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" title="MongoDB" width="24px" style="margin-right: 13px" src="https://ico.now.sh/mongodb/47A248" /></a>
-<a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" title="Redis" width="24px" style="margin-right: 13px" src="https://ico.now.sh/redis/DC382D" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img align="left" alt="SQL Server" title="SQL Server" width="18px" style="margin-right: 9px" src="https://ico.now.sh/microsoftsqlserver/CC2927" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" title="MongoDB" width="18px" style="margin-right: 9px" src="https://ico.now.sh/mongodb/47A248" /></a>
+<a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" title="Redis" width="18px" style="margin-right: 9px" src="https://ico.now.sh/redis/DC382D" /></a>
 <!-- Tools -->
-<a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" title="GraphQL" width="24px" style="margin-right: 13px" src="https://ico.now.sh/graphql/E10098" /></a>
-<a href="https://trello.com/" target="_blank"><img align="left" alt="GraphQL" title="Trello" width="24px" style="margin-right: 13px" src="https://ico.now.sh/trello/0052CC" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" title="AWS" width="24px" style="margin-right: 13px" src="https://ico.now.sh/amazonaws/FF9900" /></a>
-<a href="https://www.serverless.com/" target="_blank"><img align="left" alt="Serverless" title="Serverless" width="24px" style="margin-right: 13px" src="https://ico.now.sh/serverless/FD5750" /></a>
-<a href="https://forums.minecraftforge.net/" target="_blank"><img align="left" alt="Minecraft Forge" title="Minecraft Forge" width="24px" style="margin-right: 13px" src="https://ico.now.sh/curseforge/ED2D2F" /></a>
-<a href="https://www.spongepowered.org/" target="_blank"><img align="left" alt="Sponge" title="Sponge" width="24px" style="margin-right: 13px" src="https://www.spongepowered.org/assets/img/icons/spongie-mark.svg" /></a>
+<a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" title="GraphQL" width="18px" style="margin-right: 9px" src="https://ico.now.sh/graphql/E10098" /></a>
+<a href="https://trello.com/" target="_blank"><img align="left" alt="GraphQL" title="Trello" width="18px" style="margin-right: 9px" src="https://ico.now.sh/trello/0052CC" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" title="AWS" width="18px" style="margin-right: 9px" src="https://ico.now.sh/amazonaws/FF9900" /></a>
+<a href="https://www.serverless.com/" target="_blank"><img align="left" alt="Serverless" title="Serverless" width="18px" style="margin-right: 9px" src="https://ico.now.sh/serverless/FD5750" /></a>
+<a href="https://forums.minecraftforge.net/" target="_blank"><img align="left" alt="Minecraft Forge" title="Minecraft Forge" width="18px" style="margin-right: 9px" src="https://ico.now.sh/curseforge/ED2D2F" /></a>
+<a href="https://www.spongepowered.org/" target="_blank"><img align="left" alt="Sponge" title="Sponge" width="18px" style="margin-right: 9px" src="https://www.spongepowered.org/assets/img/icons/spongie-mark.svg" /></a>
 
 <br/>
 <br/>
