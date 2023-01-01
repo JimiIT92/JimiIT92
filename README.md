@@ -15,22 +15,28 @@
   <img align="center" alt="Jimi | Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/Jimi-FF6719?style=flat-square&logo=stackoverflow&logoColor=white" />
 </a>
 
+
+## 👉🏼 [2022 RECAP IS HERE](https://github.com/JimiIT92/JimiIT92/issues/1) 
+
 ## 🍝 I'm an Italian Developer and Minecraft Modder/Pluginer!
 
 - 🥊 I'm currently focusing on improving myself
 - 🌳 I'm shifting towards a more sustainable and green lifestyle
 - 🎸 Fun fact: I love rock music and retro games
 
-## 🏆 2022 Goals
+## 🏆 2023 Goals
 
-- [ ] <u>**Release Universe Guard 3**</u> (yeah, I know, it's kinda a meme now...)
+- [ ] <i>**GET A NEW MOTHERBOARD**</i>
+- [ ] <u>**Release Universe Guard 3**</u>
 - [ ] Give <a href="https://ore.spongepowered.org/Francesco_Jimi/Universe-Guard" target="_blank">Universe Guard</a> a proper website and wiki
 - [ ] Update <a href="https://mineworldminecraft.altervista.org/blog/" target="_blank">MineWorld</a>, making it open source and giving it a proper website and wiki
-- [x] Update <a href="https://www.curseforge.com/minecraft/mc-mods/bundles-mod" target="_blank">Bundles!</a> mod and giving it a proper webiste and wiki
-- [x] Update repositories statuses and settings
-- [x] Setup a <a href="https://github.com/JimiIT92" target="_blank">GitHub Profile Readme</a> page
-- [x] Setup a <a href="https://francescogimignano.github.io/Portfolio/" target="_blank">Personal Portfolio</a> landing site
 - [ ] Setup a Minecraft Development Portfolio landing site
+- [ ] Contribute in and develop more open source projects (especially Forge)
+- [ ] Get a new professional certification
+- [ ] Update the <a href="https://francescogimignano.github.io/Portfolio/">Personal portfolio</a> to be more appealing (possibly using webflow)
+- [ ] Improve my diet, get new friends and try to be more independant
+- [ ] Do skydiving (at least once)
+- [ ] Travel to a foreign country
 
 
 ### 🎵 Spotify Now Playing
