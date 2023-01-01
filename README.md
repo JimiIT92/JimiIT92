@@ -38,6 +38,7 @@
 - [ ] Do skydiving (at least once)
 - [ ] Travel to a foreign country
 - [ ] Learn Unreal Engine 5 and develop a small game
+- [ ] Get back to stream/video editing on Twitch/YouTube
 
 
 ### 🎵 Spotify Now Playing
