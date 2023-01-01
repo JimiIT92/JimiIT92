@@ -37,6 +37,7 @@
 - [ ] Improve my diet, get new friends and try to be more independant
 - [ ] Do skydiving (at least once)
 - [ ] Travel to a foreign country
+- [ ] Learn Unreal Engine 5 and develop a small game
 
 
 ### 🎵 Spotify Now Playing
