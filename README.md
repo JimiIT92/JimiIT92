@@ -26,7 +26,7 @@
 
 ## 🏆 2023 Goals
 
-- [ ] <i>**GET A NEW MOTHERBOARD**</i>
+- [x] <s><i>**GET A NEW MOTHERBOARD**</i></s>
 - [ ] <u>**Release Universe Guard 3**</u>
 - [ ] Give <a href="https://ore.spongepowered.org/Francesco_Jimi/Universe-Guard" target="_blank">Universe Guard</a> a proper website and wiki
 - [ ] Update <a href="https://mineworldminecraft.altervista.org/blog/" target="_blank">MineWorld</a>, making it open source and giving it a proper website and wiki
