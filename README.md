@@ -15,9 +15,6 @@
   <img align="center" alt="Jimi | Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/Jimi-FF6719?style=flat-square&logo=stackoverflow&logoColor=white" />
 </a>
 
-
-## 👉🏼 [2022 RECAP IS HERE](https://github.com/JimiIT92/JimiIT92/issues/1) 
-
 ## 🍝 I'm an Italian Developer and Minecraft Modder/Pluginer!
 
 - 🥊 I'm currently focusing on improving myself
