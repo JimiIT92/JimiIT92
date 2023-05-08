@@ -9,7 +9,7 @@
   <img align="center" alt="Minehendrix | Twitch" title="Twitch" src="https://img.shields.io/twitch/status/minehendrix?color=9146FF&label=Minehendrix&logo=twitch&logoColor=white&style=flat-square" />
 </a>
 <a href="http://discordapp.com/users/155469699109486592" target="_blank">
-  <img align="center" alt="JimiIT92 | Discord" title="Discord" src="https://img.shields.io/badge/JimiIT92-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  <img align="center" alt="JimiIT92 | Discord" title="Discord" src="https://img.shields.io/badge/Jimi-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </a>
 <a href="https://stackoverflow.com/users/2695796/jimi" target="_blank">
   <img align="center" alt="Jimi | Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/Jimi-FF6719?style=flat-square&logo=stackoverflow&logoColor=white" />
