@@ -26,7 +26,7 @@
 - [x] <s><i>**GET A NEW MOTHERBOARD**</i></s>
 - [ ] <u>**Release Universe Guard 3**</u>
 - [ ] Give <a href="https://ore.spongepowered.org/Francesco_Jimi/Universe-Guard" target="_blank">Universe Guard</a> a proper website and wiki
-- [ ] Update <a href="https://mineworldminecraft.altervista.org/blog/" target="_blank">MineWorld</a>, making it open source and giving it a proper website and wiki
+- [x] Update <a href="https://mineworldminecraft.altervista.org/blog/" target="_blank">MineWorld</a>, making it open source and giving it a proper website and wiki
 - [ ] Setup a Minecraft Development Portfolio landing site
 - [ ] Contribute in and develop more open source projects (especially Forge)
 - [ ] Get a new professional certification
@@ -86,8 +86,8 @@
 
 ### 💻 Top Repositories
 
-<a href="https://github.com/JimiIT92/BlazersMod">
-  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BlazersMod&show_icons=true&hide_border=true&theme=dark" />
+<a href="https://github.com/JimiIT92/MineWorld">
+  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=MineWorld&show_icons=true&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/JimiIT92/BundlesMod">
   <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BundlesMod&show_icons=true&hide_border=true&theme=dark" />
@@ -98,15 +98,14 @@
 <a href="https://github.com/JimiIT92/UniverseGuard2">
   <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=UniverseGuard2&show_icons=true&hide_border=true&theme=dark" />
 </a>
-<a href="https://github.com/JimiIT92/BetterSnowierSnow">
-  <img align="center" style="margin-bottom: 10px;margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterSnowierSnow&show_icons=true&hide_border=true&theme=dark" />
+<a href="https://github.com/JimiIT92/BlazersMod">
+  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BlazersMod&show_icons=true&hide_border=true&theme=dark" />
 </a>
-
 
 <br />
 
-<a href="https://github.com/JimiIT92/ItemAlert">
-  <img align="center" style="margin-bottom: 10px;margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=ItemAlert&show_icons=true&hide_border=true&theme=dark" />
+<a href="https://github.com/JimiIT92/BetterSnowierSnow">
+  <img align="center" style="margin-bottom: 10px;margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterSnowierSnow&show_icons=true&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/JimiIT92/snow_on_stairs">
   <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=snow_on_stairs&show_icons=true&hide_border=true&theme=dark" />
