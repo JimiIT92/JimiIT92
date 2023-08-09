@@ -33,7 +33,7 @@
 - [ ] Update the <a href="https://francescogimignano.github.io/Portfolio/">Personal portfolio</a> to be more appealing (possibly using webflow)
 - [ ] Improve my diet, get new friends and try to be more independant
 - [ ] Do skydiving (at least once)
-- [ ] Travel to a foreign country
+- [x] Travel to a foreign country
 - [ ] Learn Unreal Engine 5 and develop a small game
 - [ ] Get back to stream/video editing on Twitch/YouTube
 
