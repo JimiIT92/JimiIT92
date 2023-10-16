@@ -107,8 +107,8 @@
 <a href="https://github.com/JimiIT92/BetterSnowierSnow">
   <img align="center" style="margin-bottom: 10px;margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterSnowierSnow&show_icons=true&hide_border=true&theme=dark" />
 </a>
-<a href="https://github.com/JimiIT92/snow_on_stairs">
-  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=snow_on_stairs&show_icons=true&hide_border=true&theme=dark" />
+<a href="https://github.com/JimiIT92/SnowOnStairs">
+  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=SnowOnStairs&show_icons=true&hide_border=true&theme=dark" />
 </a>
 
 <br />
