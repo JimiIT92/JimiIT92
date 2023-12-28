@@ -34,22 +34,12 @@ src="https://img.shields.io/twitch/status/minehendrix?logo=twitchsx&style=for-th
 
 ### Badges
 
-<b>My GitHub Stats</b>
+## My GitHub Stats
 
 <a href="http://www.github.com/JimiIT92"><img src="https://github-readme-stats.vercel.app/api?username=JimiIT92&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="JimiIT92's GitHub stats" /></a>
 
-<b>Top Repositories</b>
+## Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/JimiIT92/MineWorld" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=MineWorld&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/JimiIT92/UniverseGuard2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=UniverseGuard2&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/JimiIT92/MineWorld" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=MineWorld&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/JimiIT92/UniverseGuard2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=UniverseGuard2&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <div width="100%" align="center"><a href="https://github.com/JimiIT92/BundlesMod" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BundlesMod&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/JimiIT92/BlazersMod" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BlazersMod&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/JimiIT92"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
