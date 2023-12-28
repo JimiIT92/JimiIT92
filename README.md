@@ -1,139 +1,55 @@
-# 👋🏼 Hi there, I'm <a href="https://stackoverflow.com/users/2695796/jimi" target="_blank">Jimi</a>
-<a href="https://www.instagram.com/jimifrancesco/" target="_blank">
-  <img align="center" alt="jimifrancesco | Instagram" title="Instagram" src="https://img.shields.io/badge/jimifrancesco-e4405f?style=flat-square&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UCQMKod7OLyusuyzV4dSHBvQ" target="_blank">
-  <img align="center" alt="MineHendrix | YouTube" title="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCQMKod7OLyusuyzV4dSHBvQ?label=%20MineHendrix&logo=youtube&style=flat-square" />
-</a>
-<a href="https://www.twitch.tv/minehendrix" target="_blank">
-  <img align="center" alt="Minehendrix | Twitch" title="Twitch" src="https://img.shields.io/twitch/status/minehendrix?color=9146FF&label=Minehendrix&logo=twitch&logoColor=white&style=flat-square" />
-</a>
-<a href="http://discordapp.com/users/155469699109486592" target="_blank">
-  <img align="center" alt="JimiIT92 | Discord" title="Discord" src="https://img.shields.io/badge/Jimi-5865F2?style=flat-square&logo=discord&logoColor=white" />
-</a>
-<a href="https://stackoverflow.com/users/2695796/jimi" target="_blank">
-  <img align="center" alt="Jimi | Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/Jimi-FF6719?style=flat-square&logo=stackoverflow&logoColor=white" />
-</a>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jimi
+============================================================================================================================
 
-## 🍝 I'm an Italian Developer and Minecraft Modder/Pluginer!
+Software Developer, Wizard and Minecraft Modder
+-----------------------------------------------
 
-- 🥊 I'm currently focusing on improving myself
-- 🌳 I'm shifting towards a more sustainable and green lifestyle
-- 🎸 Fun fact: I love rock music and retro games
+I love coding and learn new things, like new languages/technologies
 
-## 🏆 2023 Goals
+* 🌍  I'm based in Italy
+* 🖥️  See my portfolio at [francescogimignano.github.io](http://francescogimignano.github.io/Portfolio/)
+* ✉️  You can contact me at [f.gimignano92@gmail.com](mailto:f.gimignano92@gmail.com)
+* 🚀  I'm currently working on [MineWorld](http://mineworldminecraft.altervista.org/blog/wp-admin/index.php)
+* 🧠  I'm learning the Azure Cloud infrastructure for the AZ-204 Exam
+* 🤝  I'm open to collaborating on interesting projects that involves new technologies
+* ⚡  I love rock music and retro games
 
-- [x] **GET A NEW MOTHERBOARD**
-- [ ] <u>**Release Universe Guard 3**</u>
-- [ ] Give <a href="https://ore.spongepowered.org/Francesco_Jimi/Universe-Guard" target="_blank">Universe Guard</a> a proper website and wiki
-- [x] Update <a href="https://mineworldminecraft.altervista.org/blog/" target="_blank">MineWorld</a>, making it open source and giving it a proper website and wiki
-- [ ] Setup a Minecraft Development Portfolio landing site
-- [ ] Contribute in and develop more open source projects (especially Forge)
-- [ ] Get a new professional certification
-- [ ] Update the <a href="https://francescogimignano.github.io/Portfolio/">Personal portfolio</a> to be more appealing (possibly using webflow)
-- [ ] Improve my diet, get new friends and try to be more independant
-- [ ] Do skydiving (at least once)
-- [x] Travel to a foreign country
-- [ ] Learn Unreal Engine 5 and develop a small game
-- [ ] Get back to stream/video editing on Twitch/YouTube
+<a href="https://www.github.com/JimiIT92" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/JimiIT92?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a><a href="https://www.x.com/jimiauditore" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/jimiauditore?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/minehendrix" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/minehendrix?logo=twitchsx&style=for-the-badge&color=14b8a6&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+### Skills
 
 
-### 🎵 Spotify Now Playing
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-<img src="https://novatorem-jimiit92.vercel.app/api/spotify?background_color=151515" width="512" height="128" alt="Now Playing">
 
-<hr />
+### Socials
 
-### 👨🏼‍💻 Languages and Tools
+<p align="left"> <a href="https://discord.com/users/.jimi." target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/JimiIT92" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/jimifrancesco" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/francesco-gimignano-51884314a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/2695796/jimi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/jimiauditore" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@minehendrix" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@jimifrancesco" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/minehendrix" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 
-<!-- Back-End Languages -->
-<a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt="C# / .NET" title="C# / .NET" width="16px" style="margin-right: 9px" src="https://ico.now.sh/dotnet/512BD4" /></a>
-<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" title="Java" width="16px" style="margin-right: 9px" src="https://www.svgrepo.com/show/184143/java.svg" /></a>
-<a href="https://go.dev/" target="_blank"><img align="left" alt="GoLang" title="GoLang" width="16px" style="margin-right: 9px" src="https://ico.now.sh/go/00ADD8" /></a>
-<!-- Front-End Languages -->
-<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML 5" title="HTML 5" width="16px" style="margin-right: 9px" src="https://ico.now.sh/html5/E34F26" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS 3" title="CSS 3" width="16px" style="margin-right: 9px" src="https://ico.now.sh/css3/1572B6" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Javascript" title="Javascript" width="16px" style="margin-right: 9px" src="https://ico.now.sh/javascript/F7DF1E" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" title="Typescript" width="16px" style="margin-right: 9px" src="https://ico.now.sh/typescript/3178C6" /></a>
-<!-- Scripting Languages -->
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img align="left" alt="Powershell" title="Powershell" width="16px" style="margin-right: 9px" src="https://ico.now.sh/powershell/5391FE" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" title="Bash" width="16px" style="margin-right: 9px" src="https://ico.now.sh/gnubash/4EAA25" /></a>
-<!-- IDEs -->
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img align="left" alt="Visual Studio" title="Visual Studio" width="16px" style="margin-right: 9px" src="https://ico.now.sh/visualstudio/5C2D91" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="16px" style="margin-right: 9px" src="https://ico.now.sh/visualstudiocode/007ACC" /></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"><img align="left" alt="IntelliJ Idea" title="IntelliJ Idea" width="16px" style="margin-right: 9px" src="https://ico.now.sh/intellijidea/4697ff" /></a>
-<!-- Build Systems -->
-<a href="https://gradle.org/" target="_blank"><img align="left" alt="Gradle" title="Gradle" width="16px" style="margin-right: 9px" src="https://ico.now.sh/gradle/02303A" /></a>
-<a href="https://maven.apache.org/" target="_blank"><img align="left" alt="Maven" title="Maven" width="16px" style="margin-right: 9px" src="https://ico.now.sh/apachemaven/C71A36" /></a>
-<!-- Databases -->
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img align="left" alt="SQL Server" title="SQL Server" width="16px" style="margin-right: 9px" src="https://ico.now.sh/microsoftsqlserver/CC2927" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" title="MongoDB" width="16px" style="margin-right: 9px" src="https://ico.now.sh/mongodb/47A248" /></a>
-<a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" title="Redis" width="16px" style="margin-right: 9px" src="https://ico.now.sh/redis/DC382D" /></a>
-<!-- Tools -->
-<a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" title="GraphQL" width="16px" style="margin-right: 9px" src="https://ico.now.sh/graphql/E10098" /></a>
-<a href="https://trello.com/" target="_blank"><img align="left" alt="GraphQL" title="Trello" width="16px" style="margin-right: 9px" src="https://ico.now.sh/trello/0052CC" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" title="AWS" width="16px" style="margin-right: 9px" src="https://ico.now.sh/amazonaws/FF9900" /></a>
-<a href="https://www.serverless.com/" target="_blank"><img align="left" alt="Serverless" title="Serverless" width="16px" style="margin-right: 9px" src="https://ico.now.sh/serverless/FD5750" /></a>
-<a href="https://forums.minecraftforge.net/" target="_blank"><img align="left" alt="Minecraft Forge" title="Minecraft Forge" width="16px" style="margin-right: 9px" src="https://ico.now.sh/curseforge/ED2D2F" /></a>
-<a href="https://www.spongepowered.org/" target="_blank"><img align="left" alt="Sponge" title="Sponge" width="16px" style="margin-right: 9px" src="https://www.spongepowered.org/assets/img/icons/spongie-mark.svg" /></a>
+### Badges
 
-<br/>
-<br/>
-<img align="center" alt="JimiIT92's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JimiIT92&show_icons=true&hide_border=true&theme=dark&hide=prs&count_private=true" />
-<img align="center" alt="Top Languages" style="margin-left: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimiIT92&layout=compact&theme=dark&langs_count=10&hide_border=true" />
+<b>My GitHub Stats</b>
 
-<hr />
+<a href="http://www.github.com/JimiIT92"><img src="https://github-readme-stats.vercel.app/api?username=JimiIT92&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="JimiIT92's GitHub stats" /></a>
 
-### 💻 Top Repositories
+<b>Top Repositories</b>
 
-<a href="https://github.com/JimiIT92/MineWorld">
-  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=MineWorld&show_icons=true&hide_border=true&theme=dark" />
-</a>
-<a href="https://github.com/JimiIT92/BundlesMod">
-  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BundlesMod&show_icons=true&hide_border=true&theme=dark" />
-</a>
+<div width="100%" align="center"><a href="https://github.com/JimiIT92/MineWorld" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=MineWorld&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/JimiIT92/UniverseGuard2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=UniverseGuard2&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br />
+<br /><br /><br /><br /><br />
 
-<a href="https://github.com/JimiIT92/UniverseGuard2">
-  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=UniverseGuard2&show_icons=true&hide_border=true&theme=dark" />
-</a>
-<a href="https://github.com/JimiIT92/BlazersMod">
-  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BlazersMod&show_icons=true&hide_border=true&theme=dark" />
-</a>
+<div width="100%" align="center"><a href="https://github.com/JimiIT92/BundlesMod" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BundlesMod&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/JimiIT92/BlazersMod" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BlazersMod&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<br />
+### Support Me
 
-<a href="https://github.com/JimiIT92/BetterSnowierSnow">
-  <img align="center" style="margin-bottom: 10px;margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterSnowierSnow&show_icons=true&hide_border=true&theme=dark" />
-</a>
-<a href="https://github.com/JimiIT92/SnowOnStairs">
-  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=SnowOnStairs&show_icons=true&hide_border=true&theme=dark" />
-</a>
+<ul style="list-style-type: none; margin: 0;">
 
-<br />
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/JimiIT92"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-<a href="https://github.com/JimiIT92/TwitchSpawn">
-  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=TwitchSpawn&show_icons=true&hide_border=true&theme=dark"  />
-</a>
-<a href="https://github.com/JimiIT92/NameTagKeeper">
-  <img align="center" style="margin-bottom: 10px;margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=NameTagKeeper&show_icons=true&hide_border=true&theme=dark" />
-</a>
-
-<br />
-
-<a href="https://github.com/JimiIT92/novatorem">
-  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=novatorem&show_icons=true&hide_border=true&theme=dark" />
-</a>
-<a href="https://github.com/JimiIT92/Elmah.io-Go">
-  <img align="center" style="margin-bottom: 10px;margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=Elmah.io-Go&show_icons=true&hide_border=true&theme=dark" />
-</a>
-
-<br />
-
-<a href="https://github.com/JimiIT92/Lambda-Graphql-Boilerplate">
-  <img align="center" style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=Lambda-Graphql-Boilerplate&show_icons=true&hide_border=true&theme=dark" />
-</a>
-<a href="https://github.com/JimiIT92/ALBResponse">
-  <img align="center" style="margin-bottom: 10px;margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=ALBResponse&show_icons=true&hide_border=true&theme=dark" />
-</a>
+</ul>
