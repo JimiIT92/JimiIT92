@@ -183,6 +183,7 @@ I love coding and learn new things, like new languages/technologies
 <p> 
     <a href="https://discord.com/users/.jimi." target="_blank" rel="noreferrer noopener">
         <picture>
+            <source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
         </picture>
     </a> 
@@ -195,6 +196,7 @@ I love coding and learn new things, like new languages/technologies
     </a> 
     <a href="http://www.instagram.com/jimifrancesco" target="_blank" rel="noreferrer noopener">
         <picture>
+            <source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
         </picture>
     </a> 
@@ -207,6 +209,7 @@ I love coding and learn new things, like new languages/technologies
     </a> 
     <a href="https://www.stackoverflow.com/users/2695796/jimi" target="_blank" rel="noreferrer noopener">
         <picture>
+            <source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" />
         </picture>
     </a> 
@@ -219,6 +222,7 @@ I love coding and learn new things, like new languages/technologies
     </a> 
     <a href="https://www.youtube.com/@minehendrix" target="_blank" rel="noreferrer noopener">
         <picture>
+            <source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" />
         </picture>
     </a> 
@@ -231,6 +235,7 @@ I love coding and learn new things, like new languages/technologies
     </a> 
     <a href="https://www.twitch.tv/minehendrix" target="_blank" rel="noreferrer noopener">
         <picture>
+            <source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" />
         </picture>
     </a>
@@ -244,15 +249,7 @@ I love coding and learn new things, like new languages/technologies
 
 ### Top Repositories
 
-<a href="https://github.com/JimiIT92/MineWorld" align="left">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=MineWorld&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-<a href="https://github.com/JimiIT92/UniverseGuard2" align="right">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=UniverseGuard2&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-<a href="https://github.com/JimiIT92/BundlesMod" align="left">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BundlesMod&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-<a href="https://github.com/JimiIT92/BlazersMod" align="right">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BlazersMod&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
+<a href="https://github.com/JimiIT92/MineWorld" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=MineWorld&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/JimiIT92/UniverseGuard2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=UniverseGuard2&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/JimiIT92/BundlesMod" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BundlesMod&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/JimiIT92/BlazersMod" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BlazersMod&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
