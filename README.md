@@ -286,6 +286,23 @@ I love coding and learn new things, like new languages/technologies
     </picture>
 </a>
 
+### 🍯 Tip jar
+
+<a href="https://www.buymeacoffee.com/JimiIT92" target="_blank" rel="noreferrer noopener">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" />
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" width="150" alt="Buy me a Coffee" title="Buy me a Coffee" />
+    </picture>
+</a>
+<a href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=26VTWV4CY282S&ssrt=1703767258821" target="_blank" rel="noreferrer noopener">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/1280px-PayPal_logo.svg.png" />
+        <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/1280px-PayPal_logo.svg.png" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/1280px-PayPal_logo.svg.png" width="150" alt="PayPal" title="PayPal" />
+    </picture>
+</a>
+
 ### 🏅 Top Repositories
 
 <a href="https://github.com/JimiIT92/MineWorld">
