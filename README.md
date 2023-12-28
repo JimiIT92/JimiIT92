@@ -282,28 +282,28 @@ I love coding and learn new things, like new languages/technologies
 
 ### Top Repositories
 
-<a href="https://github.com/JimiIT92/MineWorld" align="left">
+<a href="https://github.com/JimiIT92/MineWorld">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=MineWorld&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=MineWorld&title_color=ec4899&text_color=000000&icon_color=14b8a6&locale=en" />
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=MineWorld&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
     </picture>
 </a>
-<a href="https://github.com/JimiIT92/UniverseGuard2" align="right">
+<a href="https://github.com/JimiIT92/UniverseGuard2">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=UniverseGuard2&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=UniverseGuard2&title_color=ec4899&text_color=000000&icon_color=14b8a6&locale=en" />
         <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=UniverseGuard2&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
     </picture>
 </a>
-<a href="https://github.com/JimiIT92/BundlesMod" align="left">
+<a href="https://github.com/JimiIT92/BundlesMod">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BundlesMod&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BundlesMod&title_color=ec4899&text_color=000000&icon_color=14b8a6&locale=en" />
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BundlesMod&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
     </picture>
 </a>
-<a href="https://github.com/JimiIT92/BlazersMod" align="right">
+<a href="https://github.com/JimiIT92/BlazersMod">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BlazersMod&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BlazersMod&title_color=ec4899&text_color=000000&icon_color=14b8a6&locale=en" />
