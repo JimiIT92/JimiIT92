@@ -20,7 +20,7 @@ I love coding and learn new things, like new languages/technologies
 <a href="https://www.youtube.com/@minehendrix" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/youtube/channel/subscribers/UCQMKod7OLyusuyzV4dSHBvQ?logo=youtube&style=social&labelColor=1c1917&label=YouTube"/></a>
 <a href="https://www.twitch.tv/minehendrix" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitch/status/minehendrix?logo=twitch&style=social&color=14b8a6&labelColor=1c1917&label=Twitch" /></a>
 
-## Skills
+## 👨🏼‍💻 Skills
 
 <p>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer noopener">
@@ -200,7 +200,7 @@ I love coding and learn new things, like new languages/technologies
   </a>
 </p>
 
-## Socials
+## 🤙🏼 Socials
 
 <p>
   <a href="https://discord.com/users/.jimi." target="_blank" rel="noreferrer noopener">
@@ -268,9 +268,15 @@ I love coding and learn new things, like new languages/technologies
   </a>
 </p>
 
-## Badges
+### 🎵 Spotify Now Playing
 
-### My GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://novatorem-jimiit92.vercel.app/api/spotify?background_color=151515" />
+  <source media="(prefers-color-scheme: light)" srcset="https://novatorem-jimiit92.vercel.app/api/spotify" />
+  <img src="https://novatorem-jimiit92.vercel.app/api/spotify?background_color=151515" width="512" height="128" alt="Now Playing">
+</picture>
+
+### 📈 My GitHub Stats
 
 <a href="http://www.github.com/JimiIT92">
     <picture>
@@ -280,7 +286,7 @@ I love coding and learn new things, like new languages/technologies
     </picture>
 </a>
 
-### Top Repositories
+### 🏅 Top Repositories
 
 <a href="https://github.com/JimiIT92/MineWorld">
     <picture>
