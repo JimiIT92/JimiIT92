@@ -10,10 +10,10 @@ I love coding and learn new things, like new languages/technologies
 * 🖥️  See my portfolio [here](http://francescogimignano.github.io/Portfolio/)
 * ✉️  You can contact me at [f.gimignano92@gmail.com](mailto:f.gimignano92@gmail.com)
 * 🚀  I'm currently working on [MineWorld](http://mineworldminecraft.altervista.org/blog/wp-admin/index.php)
-* 🧠  I'm learning the Azure Cloud infrastructure for the [AZ-204 Exam](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-204/)
+* 👾  I've been a participant in Milan's Global Game Jam 2025, developing [Breathstealer](https://globalgamejam.org/games/2025/breathstealer-1)
 * 🤝  I'm open to collaborating on interesting projects, especially if they involves new technologies
 * ⚡  I love rock music and retro games
-* 🥊  Boxing athlete and sport addicted
+* 🥊  Sport addicted
 
 <a href="https://www.github.com/JimiIT92" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/github/followers/JimiIT92?logo=github&style=social&color=14b8a6&labelColor=1c1917" /></a>
 <a href="https://www.x.com/jimiauditore" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/jimiauditore?logo=twitter&style=social&labelColor=1c1917"/></a>
