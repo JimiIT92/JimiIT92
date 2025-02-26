@@ -318,6 +318,13 @@ I love coding and learn new things, like new languages/technologies
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=MineWorld&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
     </picture>
 </a>
+<a href="https://github.com/JimiIT92/BetterChristmasChests">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterChristmasChests&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterChristmasChests&title_color=ec4899&text_color=000000&icon_color=14b8a6&locale=en" />
+        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterChristmasChests&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
+    </picture>
+</a>
 <a href="https://github.com/JimiIT92/BetterPaleGarden">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterPaleGarden&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
@@ -337,13 +344,6 @@ I love coding and learn new things, like new languages/technologies
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterSnowierSnow&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterSnowierSnow&title_color=ec4899&text_color=000000&icon_color=14b8a6&locale=en" />
         <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterSnowierSnow&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
-    </picture>
-</a>
-<a href="https://github.com/JimiIT92/BundlesMod">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BundlesMod&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BundlesMod&title_color=ec4899&text_color=000000&icon_color=14b8a6&locale=en" />
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BundlesMod&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
     </picture>
 </a>
 <a href="https://github.com/JimiIT92/BlazersMod">
