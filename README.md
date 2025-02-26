@@ -310,7 +310,6 @@ I love coding and learn new things, like new languages/technologies
 </p>
 
 ### 🏅 Top Repositories
-
 <a href="https://github.com/JimiIT92/MineWorld">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=MineWorld&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
