@@ -1,7 +1,7 @@
-Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jimi
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jimi
 ============================================================================================================================
 
-🧙🏼‍♂️ Wizard, Software Developer and Minecraft Modder
+🧙🏼‍♂️ A wizard, a software developer and a Minecraft modder
 -----------------------------------------------
 
 I love coding and learn new things, like new languages/technologies
