@@ -270,38 +270,44 @@ I love coding and learn new things, like new languages/technologies
 
 ### 🎵 Spotify Now Playing
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://novatorem-jimiit92.vercel.app/api/spotify?background_color=151515" />
-  <source media="(prefers-color-scheme: light)" srcset="https://novatorem-jimiit92.vercel.app/api/spotify" />
-  <img src="https://novatorem-jimiit92.vercel.app/api/spotify?background_color=151515" width="512" height="128" alt="Now Playing">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://novatorem-jimiit92.vercel.app/api/spotify?background_color=151515" />
+    <source media="(prefers-color-scheme: light)" srcset="https://novatorem-jimiit92.vercel.app/api/spotify" />
+    <img src="https://novatorem-jimiit92.vercel.app/api/spotify?background_color=151515" width="512" height="128" alt="Now Playing">
+  </picture>
+</p>
 
 ### 📈 My GitHub Stats
 
-<a href="http://www.github.com/JimiIT92">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JimiIT92&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JimiIT92&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=000000&icon_color=14b8a6&hide_border=true&show_icons=true" />
-        <img src="https://github-readme-stats.vercel.app/api?username=JimiIT92&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="JimiIT92's GitHub stats" />
-    </picture>
-</a>
+<p align="center">
+  <a href="http://www.github.com/JimiIT92">
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JimiIT92&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JimiIT92&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=000000&icon_color=14b8a6&hide_border=true&show_icons=true" />
+          <img src="https://github-readme-stats.vercel.app/api?username=JimiIT92&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="JimiIT92's GitHub stats" />
+      </picture>
+  </a>
+</p>
 
 ### 🍯 Tip jar
 
-<a href="https://www.buymeacoffee.com/JimiIT92" target="_blank" rel="noreferrer noopener">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" />
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" />
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" width="150" alt="Buy me a Coffee" title="Buy me a Coffee" />
-    </picture>
-</a>
-<a href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=26VTWV4CY282S&ssrt=1703767258821" target="_blank" rel="noreferrer noopener">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/1280px-PayPal_logo.svg.png" />
-        <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/1280px-PayPal_logo.svg.png" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/1280px-PayPal_logo.svg.png" width="150" alt="PayPal" title="PayPal" />
-    </picture>
-</a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/JimiIT92" target="_blank" rel="noreferrer noopener">
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" />
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" />
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" width="150" alt="Buy me a Coffee" title="Buy me a Coffee" />
+      </picture>
+  </a>
+  <a href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=26VTWV4CY282S&ssrt=1703767258821" target="_blank" rel="noreferrer noopener">
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/1280px-PayPal_logo.svg.png" />
+          <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/1280px-PayPal_logo.svg.png" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/1280px-PayPal_logo.svg.png" width="150" alt="PayPal" title="PayPal" />
+      </picture>
+  </a>
+</p>
 
 ### 🏅 Top Repositories
 
@@ -312,11 +318,11 @@ I love coding and learn new things, like new languages/technologies
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=MineWorld&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
     </picture>
 </a>
-<a href="https://github.com/JimiIT92/UniverseGuard2">
+<a href="https://github.com/JimiIT92/BetterPaleGarden">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=UniverseGuard2&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=UniverseGuard2&title_color=ec4899&text_color=000000&icon_color=14b8a6&locale=en" />
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=UniverseGuard2&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterPaleGarden&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterPaleGarden&title_color=ec4899&text_color=000000&icon_color=14b8a6&locale=en" />
+        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JimiIT92&repo=BetterPaleGarden&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
     </picture>
 </a>
 <a href="https://github.com/JimiIT92/Minepedia">
