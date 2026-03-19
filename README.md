@@ -100,13 +100,6 @@ I love coding and learn new things, like new languages/technologies
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="42" height="42" alt="JQuery" title="JQuery" />
       </picture>
   </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer noopener">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="42" height="42" alt="Sass" title="Sass" />
-      </picture>
-  </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer noopener">
       <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" />
